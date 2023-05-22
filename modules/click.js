@@ -7,3 +7,5 @@ function clickImages() {
     }
   });
 }
+
+export { clickImages }
